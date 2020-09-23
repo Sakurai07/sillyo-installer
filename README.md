@@ -21,3 +21,17 @@ if u0cursus doesn't work `run:`
 ```
 u0cursemi
 ```
+
+# 3.0
+Now we have migration back to u0 (!warning! thsi will erase everything you have done since migrate to procursus bootstrap)
+
+for going back `run:`
+```
+odysseymi
+```
+# IN CASE OF MISTAKE:
+we will create a backup before we migrate back to u0
+to `run:`
+```
+myst
+```
