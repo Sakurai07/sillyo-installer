@@ -19,5 +19,5 @@ u0cursus (for migration)
 ```
 if u0cursus doesn't work `run:`
 ```
-u0cursesmi
+u0cursemi
 ```
