@@ -2,7 +2,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/cool5tar/sillyo-installer)](https://repl.it/github/cool5tar/sillyo-installer)
 Sileo installer for unc0ver
 
-Forked from Samgisaninja/sillyo-installer but updated for latest version
+Forked from bingers but updated for latest version
 
 # 2.0
 
